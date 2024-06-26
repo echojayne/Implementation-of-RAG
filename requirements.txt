@@ -1,0 +1,7 @@
+pdfplumber
+regex
+tiktoken
+pytorch==2.3.0
+torchaudio==2.3.0
+torchvision==0.18.0
+transformers==4.41.2
